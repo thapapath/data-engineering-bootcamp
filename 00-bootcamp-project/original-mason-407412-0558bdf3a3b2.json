@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "original-mason-407412",
+  "private_key_id": "0558bdf3a3b29040db0de53aa8cf92993dd959a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDnvHUiNBEOQvtC\njiCGMZMLc4jhNlVeJrlAbbhrmhJEskY7M9xJ/VAI3GLrtj++sTi6qFihPGRQ1AS9\np2jkqCOuG4Tte97ECibWNBfCBlXQIhX9BG2NBwMFMvUWO81p7xCNG8pWxcFLfuiY\nR+YVcyJjBXGrDqa+eXSGBdtYe3I++02wSvJDW9P8ZXU3a1nvGfeeQJa4Z0gd7rf9\nKmVzFMmZa7tiSHCovINzCVNVIN6BjjnsK1LS/PLW0BUHpArkVC8GvOMLRFLZRzLK\n60Ktpk2bFvwWWjTu6SrEMD65ptNdo+T+KM8yhd+ATW/jwxc24qzpMB6XZcsXSCrE\n6E40HgPfAgMBAAECgf8PPNUhlUrfJTMLAqLLhXb7Hx22XAbrqfWEcbKEC3LSvDuM\nqQb91n+XauZrmWWXpGTr4SXyyYXPICHaVqe5tqn3SNf0xbBgM6AEyxLE2fsf3x3o\nWozZjnHPEGANQOFrlcyreqhTYa1+yVmB/zhMhhrnZ/Q8II/WS9DdqdpCdzDhSIT1\n0xpJbRrnb+wRWIKpBGmItf2RqtpUdgrySldGjhQ7mxaaH4rQpM2RAnpr86ykEl1u\ncWpb5oloknkU12yMZGq5/ghttMrOPL9m8jzco4yqY9bFnNhgQjYsOEPZoNSSVZox\nTEGbjwnVr9QyT8CLU5qlgy3AyZGrTQfvUy1Dl60CgYEA9CFW9le9qh2tKBltZhH3\npaUm0t+CZiIO8bllxmuuGKzWk40u7787F7C2NTdOhsBUPNLO087viPoOEIYKLw7r\nDi/5J0tF7KFQgQQD+y3EzdS3V8X5EvUHdHEeDBhqPRH8wMioc4R1Omvg+DimPOfE\nSXaM9MTk4yVibC2NFYhTCjUCgYEA8wDZri+dRcxVjvFdFLk6kI9OnqPMuXhd6J8E\nr8SMYwq404/7bZMIf1/JkTg7VlgY8umWlk3SKt2i3q+C9tq9TKf8nomp7ujw0Jtm\na15Fsug+n1Edc0HOoxdIXzDM2jnwiS9qUvpiESfPXY+hb4MmRXDdlU83km2J/Ogf\nOdpj+EMCgYBpwyfRgSGB2WlyvdFPLumCsZGoOXxcktS2lAMreurpdbdgJQH4i3gm\nQ0AsvdEfP6M+1nUT/cp4JRyCvA8dY/EhLFdcVpfsc9ZUjlDLOIDSSx1CwVmuhMi+\nAWNrCgi8fFZrjoKryO6gaKwF3UTnjeDTkrBuOf6PCVsiUnmUooKXIQKBgQDsahdd\n79UC4xkaSJhWYR8pJUNH8/RpPUGf35Wfq4kpknTe32Wt5S6PPZHNRvfzuSIMslVf\nRbcDHT4niHnR0F37BjQvyZ8aYGZpjcbHDqCgvnKubSxJxexTn4M5mTCz30q1LPw0\nXoSqTCDi1aop416IkJYDfV6Dhy6IbwxyLJa2IQKBgGhQnKLoT6xdA4PcjOXzBphd\ng/qYkqwohy18l+juZRgiLbFImkcm5oxrwLMyD0i7zkrKqLbEHaEq2k+6YGAklW5d\nQImAptjiNc62vH9xuUZbM87qk5LNSlbto/H0RYNOe4DBBj6jHvVtz7+9nmqWe89x\nO+/CJZJYbwVNZndcXGPp\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb3-load-files-to-bigquery@original-mason-407412.iam.gserviceaccount.com",
+  "client_id": "105898744849958495991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb3-load-files-to-bigquery%40original-mason-407412.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
