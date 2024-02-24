@@ -21,6 +21,7 @@ DATA_FOLDER = "data"
 table = "addresses"
 header = ["address_id", "address", "zipcode", "state", "country"]
 
+# data/addresses.csv
 with open(f"{DATA_FOLDER}/addresses.csv", "w", newline='') as f:  
     writer = csv.writer(f)
     writer.writerow(header)  
